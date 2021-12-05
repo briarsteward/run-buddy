@@ -9,7 +9,7 @@ body {
     color: #39a6b2;   
   }
 
-  /* apply style to <header> */
+  /* Start of Header styles */
   header {
       padding: 20px 35px;
       background-color: #39a6b2;
@@ -42,8 +42,11 @@ body {
       font-weight: lighter;
       font-size: 22px;
   }
-
-  footer {
+    /* End of header style */
+  
+    /* Start of Footer Style */
+ 
+    footer {
       background: #fce138;
       width: 100%;
       padding: 40px 35px;
@@ -68,7 +71,9 @@ body {
   footer a {
       color: #024e76
   }
+    /* End of Footer Styling */
 
+    
   section {
       padding: 60px;
   }
